@@ -8,6 +8,11 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 - Atualmente estou aprendendo desenvolvimento front-end
 - contato: vitorlima.0811@gmail.com
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
+  <img align="center" alt="CSS" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
+  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_webdesign.gif">
+</div>
 
 ## Linguagens e Tecnologias
 
