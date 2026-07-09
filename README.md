@@ -10,6 +10,8 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 <a href="mailto:vitorlima.0811@gmail.com" target="_blank"><img  height="22.5" width="120" src="https://gtm.bio/buttons/files/gmail_copy3.gif" target="_blank"></a>
 </div>
 
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
   <img align="center" alt="CSS" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
@@ -17,6 +19,8 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
   <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/brasil.gif">
   <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
 </div>
+
+---------
 
 ## Linguagens e Tecnologias
 
@@ -33,4 +37,4 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
   <img align="center" alt="Blender" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg">
 </div>
 
-## 
+![Snake animation](https://github.com/LimVitor/LimVitor/blob/output/github-contribution-grid-snake.svg)
