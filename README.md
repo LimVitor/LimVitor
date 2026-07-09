@@ -5,13 +5,17 @@ Sou um artista digital com bacharelado em Design de Games pela Universidade Anhe
 Tenho domínio avançado de Photoshop, Illustrator e Unity, intermediário em Premiere Pro, Figma e Blender, e básico em After Effects, além de conhecimento no Pacote Office.
 Ambiciono crescer como artista de games, especificamente concept artist, com o objetivo de se tornar referência no mercado brasileiro por contribuir com soluções criativas e disruptivas, e no futuro trabalhar como diretor de arte.
 
-- Atualmente estou aprendendo desenvolvimento front-end
-- contato: vitorlima.0811@gmail.com
+*Atualmente estou aprendendo desenvolvimento front-end
+<div>
+<a href="mailto:vitorlima.0811@gmail.com" target="_blank"><img  height="22.5" width="120" src="https://gtm.bio/buttons/files/gmail_copy3.gif" target="_blank"></a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
   <img align="center" alt="CSS" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
   <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_webdesign.gif">
+  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/brasil.gif">
+  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
 </div>
 
 ## Linguagens e Tecnologias
