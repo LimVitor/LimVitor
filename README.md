@@ -13,11 +13,11 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
-  <img align="center" alt="CSS" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
+  <img align="center" alt="mp3love" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
+  <img align="center" alt="gamedev" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
   <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_webdesign.gif">
-  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/brasil.gif">
-  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
+  <img align="center" alt="brasil" height="22.5" width="120" src="https://gtm.bio/buttons/files/brasil.gif">
+  <img align="center" alt="windows" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
 </div>
 
 ---------
