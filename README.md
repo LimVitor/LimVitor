@@ -1,8 +1,10 @@
 ## Olá 
-Sou um artista digital com bacharelado em Design de Games pela Universidade Anhembi Morumbi. Possuo experiência profissional em design gráfico e web design, atuando na criação de logotipos, identidades visuais, protótipos de sites e materiais digitais para redes sociais, destaques incluem projetos voluntários no Senac São Miguel Paulista e estágio remoto em design digital na Jetta Digital, além de trabalho como freelancer para microempresas. 
+Me chamo Vitor da Silva Lima, sou um artista digital com bacharelado em Design de Games pela Universidade Anhembi Morumbi. Possuo experiência profissional em design gráfico e web design, atuando na criação de logotipos, identidades visuais, protótipos de sites e artes para redes sociais. Já participei de projetos voluntários como designer no Senac São Miguel Paulista e fui estagiário em design digital em modelo home office na Jetta Digital, além de trabalho como freelancer para microempreendedores. 
 Tenho domínio avançado de Photoshop, Illustrator e Unity, intermediário em Premiere Pro, Figma e Blender, e básico em After Effects, além de conhecimento no Pacote Office.
 Ambiciono crescer como artista de games, especificamente concept artist, com o objetivo de se tornar referência no mercado brasileiro por contribuir com soluções criativas e disruptivas, e no futuro trabalhar como diretor de arte.
 
+- Atualmente estou aprendendo desenvolvimento front-end ...
+- contato: vitorlima.0811@gmail.com
 <!--
 **LimVitor/LimVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
