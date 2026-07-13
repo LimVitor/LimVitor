@@ -47,4 +47,4 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 
 ---------
 
-<img align="center" alt="CSS" height="38" width="67" src="http://www.tiptopglobe.com/skin/smile/s8663.gif">
+<img align="center" alt="CSS" height="76" width="134" src="http://www.tiptopglobe.com/skin/smile/s8663.gif">
