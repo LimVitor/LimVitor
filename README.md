@@ -7,16 +7,17 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 
 *Atualmente estou aprendendo desenvolvimento front-end
 <div>
-<a href="mailto:vitorlima.0811@gmail.com" target="_blank"><img  height="22.5" width="120" src="https://gtm.bio/buttons/files/gmail_copy3.gif" target="_blank"></a>
+  Contato: <br>
+<a href="mailto:vitorlima.0811@gmail.com" target="_blank"><img  height="19" width="350" src="http://www.tiptopglobe.com/userbar/64496f99a58297b60bc53504e92a384f.gif" target="_blank"></a>
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="mp3love" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
   <img align="center" alt="gamedev" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
   <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_webdesign.gif">
   <img align="center" alt="windows" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
+  <img align="center" alt="mp3love" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
 </div>
 
 ---------
