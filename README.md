@@ -8,6 +8,7 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 *Atualmente estou aprendendo desenvolvimento front-end
 <div>
   Contato: <br>
+  <br>
 <a href="mailto:vitorlima.0811@gmail.com" target="_blank"><img  height="19" width="350" src="http://www.tiptopglobe.com/userbar/64496f99a58297b60bc53504e92a384f.gif" target="_blank"></a>
 </div>
 
