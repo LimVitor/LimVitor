@@ -44,3 +44,7 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LimVitor/LimVitor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LimVitor/LimVitor/output/pacman-contribution-graph.svg">
 </picture>
+
+---------
+
+<img align="center" alt="CSS" height="38" width="67" src="http://www.tiptopglobe.com/skin/smile/s8663.gif">
