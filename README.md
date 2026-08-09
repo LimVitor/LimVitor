@@ -1,4 +1,4 @@
-<img align="center" alt="HTML" height="22.5" width="120" src="https://gtm.bio/buttons/files/disclaimer_copy2.gif">
+<img align="center" alt="HTML" height="19" width="350" src="http://www.tiptopglobe.com/userbar/35f9e0fc65a039d2a7f24518f8bfe7b8.gif">
 
 ## Olá! Me chamo Vitor da Silva Lima 
 Sou um artista digital com bacharelado em Design de Games pela Universidade Anhembi Morumbi. Possuo experiência profissional em design gráfico e web design, atuando na criação de logotipos, identidades visuais, protótipos de sites e artes para redes sociais. Já participei de projetos voluntários como designer no Senac São Miguel Paulista e fui estagiário em design digital em modelo home office na Jetta Digital, além de trabalho como freelancer para microempreendedores. 
@@ -15,10 +15,10 @@ Ambiciono crescer como artista de games, especificamente concept artist, com o o
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="gamedev" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_gamedev.gif">
-  <img align="center" alt="webdesign" height="22.5" width="120" src="https://gtm.bio/buttons/files/meetup_webdesign.gif">
-  <img align="center" alt="windows" height="22.5" width="120" src="https://gtm.bio/buttons/files/windows.png">
-  <img align="center" alt="mp3love" height="22.5" width="120" src="https://gtm.bio/buttons/files/mp3love.gif">
+  <img align="center" alt="music" height="19" width="350" src="http://www.tiptopglobe.com/userbar/992fc90b2123a0ee072aa94401043c66.gif">
+  <img align="center" alt="square" height="19" width="350" src="http://www.tiptopglobe.com/userbar/8ecf769715b739c5aab2694dc5c7b362.png">
+  <img align="center" alt="windows" height="19" width="350" src="https://userbar-gif-maker.pages.dev/userbars/sport/045090eda3ed68b4f6658c37f4b289ff.gif">
+  <img align="center" alt="mp3love" height="19" width="350" src="https://userbar-gif-maker.pages.dev/userbars/games-computer/9b64fef646d61051736e536194924e32.gif">
 </div>
 
 ---------
